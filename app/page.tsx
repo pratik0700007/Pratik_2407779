@@ -1,5 +1,4 @@
 import TopBar from "@/components/TopBar";
-import Users from "@/components/Users";
 
 export default async function Home() {
   return (
